@@ -20,7 +20,7 @@ To run this project on your local machine, follow these steps:
 ```
 - Change into the project directory:
 ```bash
-  cd buyer-seller-api
+  cd UnityLabs.ai
 
 ```
 
@@ -29,7 +29,8 @@ To run this project on your local machine, follow these steps:
   npm start
 
 ```
-The API will be accessible at http://localhost:5000
+The API will be accessible at http://localhost:5000 for localhost 
+Api is Live At->https://unitylabs-ai.onrender.com/
 
 ## Database Configuration
 
