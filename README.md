@@ -1,3 +1,7 @@
+## Api Documentation
+```bash
+https://documenter.getpostman.com/view/26695025/2s9Ykhfj6X
+```
 
 # REST API for Buyers and Sellers
 
