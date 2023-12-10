@@ -15,7 +15,7 @@ This repository contains a Node.js-based REST API for buyers and sellers to regi
 To run this project on your local machine, follow these steps:
 - Clone the repository:
 ```bash
-  git clone https://github.com/Prateek043/buyer-seller-APIs.git
+  git clone https://github.com/Prateek043/UnityLabs.ai.git
 
 ```
 - Change into the project directory:
